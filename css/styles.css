@@ -46,3 +46,12 @@ ul {
   margin-bottom: 10px;
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: Wikipedia;
+  src: url(/css/fonts/LinLibertine_R.ttf)
+}
+
+h1 {
+  font-family: Wikipedia;
+}
