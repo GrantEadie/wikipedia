@@ -4,13 +4,17 @@
   object-fit: contain;
 }
 
+.sidebar {
+  float: left;
+}
+
 ul {
   list-style: none;
 }
 
 .moveleft {
   position: relative; 
-  left:-10px; 
+  left: -20px; 
   top:2px;
 }
 
@@ -25,12 +29,12 @@ ul {
 
 .style-two {
   position: relative;
-  left: -595px; 
+  left: -445px; 
   bottom: 5px;
   opacity: 40%;
   border: 0;
   height: 1px;
-  width: 200px;
+  width: 160px;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
   
 }
